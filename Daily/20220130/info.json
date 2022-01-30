@@ -1,1 +1,20 @@
-
+[{"settings":
+	{
+		"version": 4, 
+		"artist": "Plum", 
+		"song": "정령의 무도", 
+		"author": "Lemon1415, PAPER_PPT_, 핫덕", 
+		"previewImage": "moon-5175691_1920.jpg", 
+		"previewIcon": "moon_bright.png", 
+		"previewIconColor": "dddddd", 
+		"previewSongStart": 0, 
+		"previewSongDuration": 10, 
+		"seizureWarning": "Disabled", 
+		"levelDesc": "Spirits' Dance", 
+		"artistLinks": "https://www.youtube.com/channel/UC0AwIqrAIR_98iXdDvLzUNg", 
+		"difficulty": 4,
+		"songFilename": "정령의 무도_Plum_My Little Universe_192kbps.ogg", 
+		"volume": 100,
+    "workshopId": "2140165811"
+	}
+}]
